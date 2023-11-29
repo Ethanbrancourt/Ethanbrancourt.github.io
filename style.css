@@ -1,0 +1,65 @@
+body {
+	background-image: url("https://fixthephoto.com/images/content/film-grain-overlay-texture-201611831123.jpg");
+}
+
+h1 {
+	font-size: 10rem;
+	text-align: center;
+	color: white;
+}
+
+.centre {
+	margin-right: auto;
+}
+#left {
+	float:left;
+	height: 600px;
+	width: 960px;
+	border: none;
+	background-color: transparent;
+	color: white;
+	font-size: 5rem;
+}
+#right {
+	float:right;
+	height: 600px;
+	width: 960px;
+	border: none;
+	background-color: transparent;
+	color: white; 
+	font-size: 5rem;
+}
+
+#inv {
+	font-size: 2rem;
+	text-align: center;
+	color: white;
+}
+.effect {
+	transition: 0.4s;
+	background-color: white;
+}
+.effect:hover{
+	transform: scale(1.2);
+	
+}
+
+.div-effect {
+	overflow: hidden;
+}
+.white {
+	color: white;
+	font-size: 2rem;
+	text-align: center;
+}
+.alignement {
+	display: flex;
+}
+
+p {
+	color: white;
+}
+.droiteee {
+	margin-right: 30rem;
+	font-size: 5rem;
+}
